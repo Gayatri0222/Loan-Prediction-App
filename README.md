@@ -156,38 +156,6 @@ The application can be deployed using Streamlit Cloud by connecting your GitHub 
 
 ---
 
-## Future Improvements
-
-- Improve model accuracy using advanced algorithms
-- Add model evaluation metrics
-- Implement data visualization dashboards
-- Add authentication system for users
-- Deploy using cloud platforms
 
 ---
 
-## Author
-
-Gayatri Berde
-
----
-
-## License
-
-This project is open source and available for learning and educational purposes.
-```
-
-A small but important GitHub tip.
-
-At the top of your repository add a **short project description** like this:
-
-Loan Prediction App using Machine Learning and Streamlit to predict loan approval based on applicant data.
-
-If you want, I can also show you how to make your GitHub project **look 10 times more professional** by adding:
-
-* badges
-* screenshots
-* live app link
-* model accuracy section
-
-Those things actually impress recruiters.
